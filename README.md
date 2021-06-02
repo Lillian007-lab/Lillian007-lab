@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-![Lillian007-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lillian007-lab)
-![Lillian007-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lillian007-lab&count_private=true)
+![Lillian007-lab's GitHub stats](https://github-readme-stats-lillian007-lab.vercel.app/api?username=Lillian007-lab&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lillian007-lab&count_private=true&layout=compact)
-
-
-
-![Lillian007-lab's GitHub stats](https://github-readme-stats-lillian007-lab.vercel.app/api?username=Lillian007-lab)
+![Top Langs](https://github-readme-stats-lillian007-lab.vercel.app/api/top-langs/?username=Lillian007-lab&count_private=true&layout=compact)
 
 <!--
 **Lillian007-lab/Lillian007-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
